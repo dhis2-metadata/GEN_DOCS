@@ -41,7 +41,7 @@ With these modules, countries can:
 This chapter summarizes the published modules as of October 2026. It will be updated as more modules and packages are added to their respective E&VC activities.
 
 <!-- TODO: update ento-vc-100-en.png to add the Insecticide resistance monitoring activity and the IVM Discriminating Concentration Bioassay module -->
-![Entomology program structure](resources/images/ento-vc-100-en.png)
+![Entomology program structure](resources/images/ento-vc-001-en.png)
 
 The diagram provides an overview (from darker to lighter green) of the **activities, modules, and packages** currently available in the DHIS2 for E&VC. Further use cases and descriptions are provided in the design guides of the modules.
 
